@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.head_title {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  color: #FFE3A9;
+  letter-spacing: 1rem;
+}
